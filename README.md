@@ -9,4 +9,5 @@
 - [How to install NGINX Web Server on RHEL 8](https://github.com/nomorespice/rhel8-howto/wiki/How-to-install-NGINX-Web-Server-on-RHEL-8)
 - [How to compile and install SNORT on RHEL 8](https://github.com/nomorespice/rhel8-howto/wiki/How-to-compile-and-install-SNORT-on-RHEL-8)
 - [How to install SQUID on RHEL 8](https://github.com/nomorespice/rhel8-howto/wiki/How-to-install-SQUID-on-RHEL-8)
+- [How to install and configure Wireguard on RHEL 8](https://github.com/nomorespice/rhel8-howto/wiki/How-to-install-and-configure-Wireguard-on-RHEL-8)
 - - - -
